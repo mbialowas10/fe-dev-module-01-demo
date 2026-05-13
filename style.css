@@ -74,8 +74,23 @@ nav a:hover{
 .main-content p{
     text-indent: 1rem;
 }
+/* section attractions */
 #attractions {
     background-color: #40a1de;
     padding:1.25rem;
     border:2px solid #151414;
+    margin-bottom: 1.25rem;
 }
+
+#attractions h2{
+    color: #333;
+    border-bottom: 2px solid black;
+    padding-bottom:0.625rem;
+}
+footer{
+    background-color: #222;
+    color:#fff;
+    text-align: center;
+    padding:1rem 0;
+}
+
